@@ -1,7 +1,7 @@
 <html>
 <head>
     <style type="text/css" media="screen">
-        body {font-family: courier; font-size: 12px;}</style>
+        body {font-family: "Courier new"; font-size: 12px;}
     </style>
 </head>
 <body>
